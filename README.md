@@ -1,4 +1,4 @@
-# pizzeria-app
+# BAJS !!!!!!
 App för en pizzeria
 
 Skapa en app för Wallens food and friends där första fokus är på deras pizzor. http://www.vallensfood.se/ 
