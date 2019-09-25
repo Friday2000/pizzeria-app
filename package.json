@@ -1,0 +1,22 @@
+{
+  "name": "pizzeria-app",
+  "version": "1.0.0",
+  "description": "App for restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Friday2000/pizzeria-app.git"
+  },
+  "author": "Frida Olsson, Anton Laurell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Friday2000/pizzeria-app/issues"
+  },
+  "homepage": "https://github.com/Friday2000/pizzeria-app#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
