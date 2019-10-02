@@ -1,3 +1,4 @@
+
 # Projektplan
 
 ## Förplanering för hur man bygger en app
@@ -39,5 +40,38 @@ Bakgrund (Box) - #f9f0ed
 Calls-to-action
 Main menu m. Fyra stora ikoner till sub-sidor (Meny, Varukorg, Twitter, Information).
 På varje sub-sida finns det en tillbaka knapp där man tar sig tillbaka till main menyn. 
+
+
+**Wireframe & layout**
+
+
+Main menu:
+
+![main menu](https://i.gyazo.com/ef157ecbd0c9231155aa9b94e7912cc1.png)
+
+
+ 1. *Meny*:
+ 
+![meny](https://i.gyazo.com/3f16c4dcd3735a98f10cb62815dcb624.png)
+
+
+ - *meny - filter dropdown*:
+
+![meny-filter dropdown](https://i.gyazo.com/c4a6ed1d09c4a9b86301800a12f88be9.png)
+
+
+ - *meny - item clicked*:
+ 
+![meny-item clicked](https://i.gyazo.com/36d3e0b7b8b49083f6d9eeea704959c0.png)
+
+
+ 2. *Varukorg*:
+ 
+![varukorg](https://i.gyazo.com/c8aa9ee6f5a5283db6a63a101b56a591.png)
+
+
+ 3. *Information*:
+ 
+![information](https://i.gyazo.com/be09e542ee47c05bcb6e66aacdf7e9b7.png)
 
 ## Agile Utveckling
