@@ -18,4 +18,21 @@ Få tillgång till data: Vi skriver våra egna listor och gör våra egna bilder
 Appen ska endast vara till smartphones.
 ## Prototyp
 ## Design
+Font: Leon Sans (basic)
+  Wheight 800
+  Tracking 3
+  
+
+Färgschema:
+Bakgrund (Bas) - #870d1d 
+![röd](https://i.imgur.com/NYWz3Ax.png)
+Bakgrund (Box) - #f9f0ed  
+![vit](https://i.imgur.com/xKg7FUM.png)
+"Information" Ikon - #4c000a 
+![Mörkröd](https://i.imgur.com/4EJcwtc.png)
+
+Calls-to-action
+Main menu m. Fyra stora ikoner till sub-sidor (Meny, Varukorg, Twitter, Information).
+På varje sub-sida finns det en tillbaka knapp där man tar sig tillbaka till main menyn. 
+
 ## Agile Utveckling
