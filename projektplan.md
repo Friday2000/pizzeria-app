@@ -25,10 +25,15 @@ Font: Leon Sans (basic)
 
 Färgschema:
 Bakgrund (Bas) - #870d1d 
+
 ![röd](https://i.imgur.com/NYWz3Ax.png)
+
 Bakgrund (Box) - #f9f0ed  
+
 ![vit](https://i.imgur.com/xKg7FUM.png)
+
 "Information" Ikon - #4c000a 
+
 ![Mörkröd](https://i.imgur.com/4EJcwtc.png)
 
 Calls-to-action
