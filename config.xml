@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.affa.pizza-app" version="1.0.0">
     <name>pizza-app</name>
     <description>
-        A blank PhoneGap app.
+        Phone application for pizza restaurant
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author>
+        Anton Laurell,
+        Frida Olsson
     </author>
-    <content src="index.html" />
-    <access origin="*" />
+    <platform name="ios">
+    <platform name="android">
+    <platform name="winphone">
 </widget>
